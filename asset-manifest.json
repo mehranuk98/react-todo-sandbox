@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-todo-sandbox/static/css/main.f3f1e167.css",
+    "main.js": "/react-todo-sandbox/static/js/main.b22fc6f0.js",
+    "static/media/bootstrap-icons.woff?": "/react-todo-sandbox/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-todo-sandbox/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/react-todo-sandbox/index.html",
+    "main.f3f1e167.css.map": "/react-todo-sandbox/static/css/main.f3f1e167.css.map",
+    "main.b22fc6f0.js.map": "/react-todo-sandbox/static/js/main.b22fc6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f1e167.css",
+    "static/js/main.b22fc6f0.js"
+  ]
+}
